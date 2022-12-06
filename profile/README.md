@@ -18,3 +18,8 @@ Unutar ove organizacije se nalaze interni resursi sektora za Elektroniku i Progr
 - Ukoliko niste član tima
   - Proverite da li se ono što trazite nalazi na našem sajtu [beoavia.org](https://beoavia.org/)
   - Kontaktirajte nas putem email adrese [marketing@beoavia.org](mailto:marketing@beoavia.org)
+
+#### Uradio sam sve što treba, ali i dalje vidim ovu stranicu...
+
+- Ukoliko pristupate iz web pregledača, kliknite [OVDE](https://github.com/Beoavia?view_as=member)
+- Ukoliko koristite GitHub aplikaciju kliknite [OVDE](https://github.com/Beoavia/.github-private/blob/main/profile/README.md)
