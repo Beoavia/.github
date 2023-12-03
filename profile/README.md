@@ -1,9 +1,9 @@
-# Studentski tim BEOAVIA
+# Udruženje Studenata Vazduhoplovstva BEOAVIA
 
 ## Dobrodošli u GitHub organizaciju studentskog tima BEOAVIA
 
 ### Šta se ovde nalazi?
-Unutar ove organizacije se nalaze interni resursi sektora za Elektroniku i Programiranje studentskog tima BEOAVIA.
+Unutar ove organizacije se nalaze interni resursi sektora za Elektroniku i Programiranje.
 
 #### Ako vidite ovu stranicu to znači da nemate pristup resursima ove organizacije.
 
